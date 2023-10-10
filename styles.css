@@ -1,0 +1,18 @@
+body{
+font-family: 'EM Garamond',sans-serif !important;
+}
+
+.banner-img{
+    background-image: url("images/banner.png");
+    background-size: cover;
+    height: 80vh;
+ 
+}
+.mybtn-primary{
+    background-color: #B68C5A;
+    color: white;
+}
+
+.img-bg{
+    background-color: rgba(17, 17, 17, 0.8);
+}
